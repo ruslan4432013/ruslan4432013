@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React NextJS MobX Redux TypeScript
 
-<img style="float: left" height="400" src="https://github.com/ruslan4432013/resume/blob/main/blob/photo/avatar.jpg" alt="avatar"/>
+<img align="left" height="400" src="https://github.com/ruslan4432013/resume/blob/main/blob/photo/avatar.jpg" alt="avatar"/>
   📞Телефон: +7-999-862-03-16
    📫 E-mail: <a href='mailto:ruslan4432013@gmail.com'>ruslan4432013@gmail.com</a>
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
