@@ -1,8 +1,6 @@
 # Руслан Ю.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#руслан-юрьевич)
-
-<img height="400" src="https://github.com/ruslan4432013/resume/blob/main/blob/photo/avatar.jpg" alt="avatar"/>
-
 ### Frontend Developer | React NextJS MobX Redux TypeScript
+<img style="float: left" height="400" src="https://github.com/ruslan4432013/resume/blob/main/blob/photo/avatar.jpg" alt="avatar"/>
 
 ## <p align="right">Контактная информация:</p>
 
