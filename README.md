@@ -4,15 +4,19 @@
 
 ### Frontend Developer | React NextJS MobX Redux TypeScript
 
-## Контактная информация:
+## <p align="end">Контактная информация:</p>
 
-📞Телефон: +7-999-862-03-16
-<p align="start">
+<p align="end">
+  📞Телефон: +7-999-862-03-16
+</p>
+<p align="end">
    📫 E-mail: <a href='mailto:ruslan4432013@gmail.com'>ruslan4432013@gmail.com</a>
 </p>
+<div align="end">
 <a href="https://t.me/rodrijiez" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+</div>
 
 ***
 
@@ -40,6 +44,7 @@
 - Имею опыт работы с ESLint, знаком с настройкой и настройками конфигурации, для улучшения качества кода.
 
 ## 🛠 Ключевые навыки:
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -87,6 +92,7 @@
 ***
 
 ## <p align="center"> 💻 Обо мне:</p>
+
 <p>
 Легко нахожу общий язык с людьми, адекватно рассчитываю свои силы, если буду понимать, что где то не успеваю, сообщу сразу же, и мой подход в работе и учебе такой, если остановился на одном месте, первые 2 часа стараюсь решить все сам (гугл, stackoverflow, документация) и только потом обращаться за помощью, всегда на связи
 </p>
