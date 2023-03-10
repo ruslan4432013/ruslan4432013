@@ -1,20 +1,12 @@
 # Руслан Ю.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#руслан-юрьевич)
+
 ### Frontend Developer | React NextJS MobX Redux TypeScript
+
 <img style="float: left" height="400" src="https://github.com/ruslan4432013/resume/blob/main/blob/photo/avatar.jpg" alt="avatar"/>
-
-## <p align="right">Контактная информация:</p>
-
-<p align="right">
   📞Телефон: +7-999-862-03-16
-</p>
-<p align="right">
    📫 E-mail: <a href='mailto:ruslan4432013@gmail.com'>ruslan4432013@gmail.com</a>
-</p>
-<div align="right">
-<a href="https://t.me/rodrijiez" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-</div>
+
 
 ***
 
