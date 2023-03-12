@@ -40,6 +40,7 @@
 - Имею опыт работы с ESLint, знаком с настройкой и настройками конфигурации, для улучшения качества кода.
 
 ## 🛠 Ключевые навыки:
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -61,7 +62,7 @@
 
 ## 💻 Дополнительные навыки:
 
-#### Около года работал в backend, список технологий, с которыми я знаком
+#### Около года в backend, список технологий, с которыми работал
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -86,13 +87,14 @@
 
 ***
 
-## <p style="text-align: center"> 💻 Обо мне:</p>
+## <p align="center"> 💻 Обо мне:</p>
+
 <p>
 Легко нахожу общий язык с людьми, адекватно рассчитываю свои силы, если буду понимать, что где то не успеваю, сообщу сразу же, и мой подход в работе и учебе такой, если остановился на одном месте, первые 2 часа стараюсь решить все сам (гугл, stackoverflow, документация) и только потом обращаться за помощью, всегда на связи
 </p>
 
 ***
-<div style="display: flex; justify-content: center">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=435&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+11+%D0%BC%D0%B0%D1%80%D1%82%D0%B0+2023+%D0%B3%D0%BE%D0%B4%D0%B0" alt="Typing SVG" /></a>
 </div>
 
