@@ -20,6 +20,8 @@
 
 ### ⌛ 3+ года
 
+Большой опыт работы над Dashboard для отслеживания работы майнеров и электричества, созданием лендинговых сайтов, а также решением задач по парсингу и автоматизации бизнес-процессов. Использовал TypeScript и Node.js для реализации этих проектов. Умею создавать интерактивные панели управления, работать с базами данных, собирать и обрабатывать данные, а также автоматизировать рутинные задачи.
+
 - Имею опыт работы с frontend-технологиями, такими как TypeScript, Next.js, React, Redux, MobX, Webpack, препроцессоры
   SCSS/SASS, React Hook Form, Apollo Сlient и GraphQL.
 - Хорошо знаком с TypeScript и использую его для улучшения типизации и надежности кода.
@@ -95,7 +97,7 @@
 
 ***
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&width=435&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+11+%D0%BC%D0%B0%D1%80%D1%82%D0%B0+2023+%D0%B3%D0%BE%D0%B4%D0%B0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+4+%D0%BC%D0%B0%D1%8F+2023+%D0%B3%D0%BE%D0%B4%D0%B0" alt="Typing SVG" /></a>
 </div>
 
 ***
